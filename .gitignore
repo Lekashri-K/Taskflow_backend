@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Django files to ignore
+db.sqlite3
+/static/
+/media/
+
+# Editor files
+.vscode/
+.idea/
